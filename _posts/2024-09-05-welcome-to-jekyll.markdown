@@ -4,9 +4,9 @@ title:  "Welcome to Jekyll!"
 date:   2024-09-05 22:35:11 -0500
 categories: jekyll update
 ---
-Esta pagina es mi primera version de mi 'Portal'.
+Esta pagina es mi primera version de mi `Portal`.
 
-ewopoewpo 435345 'retret'
+ewopoewpo 435345 `retret`
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
