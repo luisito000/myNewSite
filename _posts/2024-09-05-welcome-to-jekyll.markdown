@@ -26,8 +26,11 @@ resaltado en mi post
 
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Si necesitas ver informacion de los productos de [Microsoft][ref01] visita su pagina. La empresa[IBM][ref02] tienen muchos 
+productos interesantes.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+El portal de [Amazon][ref03] ofrecen mejores productos.
+
+[ref01]: https://www.microsoft.com/es-pe/
+[ref02l-gh]:   https://www.ibm.com/mx-es
+[ref03l-talk]: https://www.amazon.com/-/es/
