@@ -32,5 +32,5 @@ productos interesantes.
 El portal de [Amazon][ref03] ofrecen mejores productos.
 
 [ref01]: https://www.microsoft.com/es-pe/
-[ref02l-gh]:   https://www.ibm.com/mx-es
-[ref03l-talk]: https://www.amazon.com/-/es/
+[ref02]:   https://www.ibm.com/mx-es
+[ref03]: https://www.amazon.com/-/es/
